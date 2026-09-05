@@ -1,16 +1,16 @@
-# Hi, I'm Jewel 👋
+# Jewel Geea George
 
 Backend Engineer building APIs and distributed systems with **Python (FastAPI, Flask)**, with full-stack range into **React** and **Node.js**. Currently looking for backend engineering roles.
 
-📍 Kochi, Kerala &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/jewelgeea/)
+Kochi, Kerala &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/jewelgeea/)
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - **[bidirectional-api-converter](https://github.com/Jewel-Geea/bidirectional-api-converter)** — Converts GraphQL schemas to REST (FastAPI) and OpenAPI specs to GraphQL (Strawberry) with a live web UI. Demonstrates schema-driven code generation and API design across both paradigms.
 - **[cuvette-backend-project](https://github.com/Jewel-Geea/cuvette-backend-project)** — Node.js/Express backend with authentication, routing, and a cloud database integration.
 - **[PocketNotesApp](https://github.com/Jewel-Geea/PocketNotesApp)** — Full-stack note-taking app with real-time context state, modal flows, and chat functionality.
 
-## 💻 Tech Stack
+## Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
@@ -21,7 +21,7 @@ Backend Engineer building APIs and distributed systems with **Python (FastAPI, F
   <img src="https://img.shields.io/badge/CI%2FCD-4D4D4E?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 </p>
 
-## 📊 GitHub Activity
+## GitHub Activity
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=Jewel-Geea&theme=radical" alt="Jewel's GitHub Streak" />
 </p>
